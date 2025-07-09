@@ -4,20 +4,22 @@
 Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
 
 ## Background
-- **Name:** [Kutloano Thoothe]
-- **Location:** [Maseru]
-- **Education:** [2016: Junor Cirtificate, 2019: LGCSE]
+- **Name:** Kutloano Thoothe
+- **Location:** Maseru
+- **Education:** 2016: Junor Cirtificate, 2019: LGCSE
 - **Skills:** i have a basic knowledge of the following languages:
   * Html
   * CSS
+  * PHP
   *  C++
   * Java
   * i also have basic knowledge of Linux
+## Technologies
+- Vs Code
+- GitHub
 ## Journey
 ### Early Life
-- i am origionally from a disrict of Leribe in Lesotho. from a town called Peka
-- i moved to a town called Maputsoe a few years later, still in Leribe. this was because of school.
-- i moved around schools a lot so i moved to different places a couple of times.
+I am originally from the district of Leribe in Lesotho, born in a small town called Peka. A few years later, I moved to Maputsoe, another town within the same district, mainly for educational reasons. Throughout my early years, I changed schools several times, which meant relocating to different places more than once. These moves shaped much of my childhood and exposed me to different environments, people, and learning experiences.
 ### Education and Career
 - Primary schools:
   * Mafube English Medium Primary School
@@ -37,11 +39,11 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
 ### How it Started
 My journey into software development began in an unexpected way. At first, it was more of a joke — I was fascinated by how movies showed people building incredible tech and controlling systems with just a keyboard. That curiosity sparked something real in me. I started exploring the world of software, and what began as a light interest quickly grew into a true passion.
 
- Since i got an opportunity to study it, I've developed a strong appreciation for how powerful software can be in solving real-life problems. I enjoy the challenge of building systems from scratch, whether it's designing interfaces, managing backend logic, or working with databases. I’ve worked on projects ranging from web applications to system automation and continue to sharpen my skills every day.
-
-For me, software isn’t just about writing code — it’s about creating solutions, thinking critically, and constantly learning. I love being part of this ever-evolving field and look forward to building more meaningful, user-centered applications.
-
+Since i got an opportunity to study it, I've developed a strong appreciation for how powerful software can be in solving real-life problems. I enjoy the challenge of building systems from scratch, whether it's designing interfaces, managing backend logic, or working with databases. I’ve worked on projects ranging from web applications to system automation and continue to sharpen my skills every day.
+ 
 ### Goals
+I’m currently an intern at Africa Code Academy, where I’m focused on strengthening my software development skills. This opportunity allows me to apply what I’ve learned, explore new technologies, and grow through hands-on experience. I’m excited to keep learning and improving as I build real-world projects.
+
 One of my biggest inspirations is a successful entrepreneur named Jeff, who runs a thriving internet café and uses it as a platform to educate and uplift others interested in tech. Watching his journey sparked something in me — a desire not just to grow in the tech world, but to use my knowledge to empower others too.
 
 My main goal is to become a confident and skilled software developer, someone who can build real solutions and take on challenges with creativity and clarity. But I’m not stopping there — I also dream of starting my own business, beginning with an internet café that can serve as both a hub for access and a space for learning.
