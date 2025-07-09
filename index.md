@@ -7,11 +7,11 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
 - **Name:** [Kutloano Thoothe]
 - **Location:** [Maseru]
 - **Education:** [2016: Junor Cirtificate, 2019: LGCSE]
-- **Skills:** [i have a basic knowledge of the following languages:]
-- Html
-- CSS
--  C++
-- Java
+- **Skills:** i have a basic knowledge of the following languages:
+  * Html
+  * CSS
+  *  C++
+  * Java
   * i also have basic knowledge of Linux
 ## Journey
 ### Early Life
