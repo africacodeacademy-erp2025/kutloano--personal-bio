@@ -64,7 +64,8 @@ I’m eager to keep exploring and growing, which is why I also plan to study oth
   - add new books
   - modify the books
   - delete the books
-  - basically manage anything that has to do with books
+  - basically manage anything that has to do with books.
+    this was just a user-frindly system system.
 ### Iternship Management system
 this project was designed in oder for users(according to their role) to interact with the intership management system online
 ## users involed
