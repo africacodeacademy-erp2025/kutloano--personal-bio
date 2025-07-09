@@ -17,15 +17,19 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
 ### Early Life
 - i am origionally from a disrict of Leribe in Lesotho. from a town called Peka
 - i moved to a town called Maputsoe a few years later, still in Leribe. this was because of school.
-- i moved around schools a lot so i moved a couple of times.
+- i moved around schools a lot so i moved to different places a couple of times.
+#### Date of Birth
+* 11/April/2001
 
 ### Education and Career
 - Primary schools:
   * Mafube English Medium Primary School
   * Community Primary School
 - High Schools
-  * Holy Names High School (Junior Certificate)
-  * Mafube High School (LGCSE)
+  * Holy Names High School in Berea district - Bela-Bela
+    - (Junior Certificate) - 2016
+  * Mafube High School in Leribe - Maputsoe
+    - (LGCSE) - 2019
 
 ### Goals
 my goal is to one day become a very confident software developer. i also want of open a bussiness, starting with an internet cafe
