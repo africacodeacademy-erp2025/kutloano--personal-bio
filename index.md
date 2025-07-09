@@ -18,9 +18,6 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
 - i am origionally from a disrict of Leribe in Lesotho. from a town called Peka
 - i moved to a town called Maputsoe a few years later, still in Leribe. this was because of school.
 - i moved around schools a lot so i moved to different places a couple of times.
-#### Date of Birth
-* 11/April/2001
-
 ### Education and Career
 - Primary schools:
   * Mafube English Medium Primary School
