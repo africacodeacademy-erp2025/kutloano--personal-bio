@@ -30,6 +30,13 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
     - (Junior Certificate) - 2016
   * Mafube High School in Leribe - Maputsoe
     - (LGCSE) - 2019
+### Current Education
+- Botho University
+  * Fuculty of Enginieering and Technology
+  ### Course
+  - Bsc Honours in Computing
+  ### Specialization
+  - General
 
 ### Goals
 my goal is to one day become a very confident software developer. i also want of open a bussiness, starting with an internet cafe
