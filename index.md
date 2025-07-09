@@ -19,7 +19,7 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
 - GitHub
 ## Journey
 ### Early Life
-I am originally from the district of Leribe in Lesotho, born in a small town called Peka. A few years later, I moved to Maputsoe, another town within the same district, mainly for educational reasons. Throughout my early years, I changed schools several times, which meant relocating to different places more than once. These moves shaped much of my childhood and exposed me to different environments, people, and learning experiences.
+I am originally from the district of Leribe in Lesotho, born in a small town called Peka. A few years later, I moved to Maputsoe, another town within the same district, mainly for educational reasons. Throughout my early years, I changed schools several times, which meant relocating to different places more than once. These moves shaped much of my childhood and exposed me to different environments, people, and learning experiences. I currently live at Maseru, Ha - Abia and i am a student at Botho University.
 ### Education and Career
 - Primary schools:
   * Mafube English Medium Primary School
