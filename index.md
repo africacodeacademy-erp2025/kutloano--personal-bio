@@ -53,11 +53,11 @@ I’m eager to keep exploring and growing, which is why I also plan to study oth
 * i used c++ to develop on online partform of a liabrary management system.
 * this project was develped in order to effectively use the library and manage the books oand how they are used
 * the users of this system were students, and the admin
-  ## the students were able to: 
+  ## the students' Roles:
   - order books
   - search available books.
   - view books available in the liabrary at that particular time.
-  ## admins were able to:
+  ## admins Roles
   - add new books
   - modify the books
   - delete the books
@@ -69,25 +69,26 @@ this project was designed in oder for users(according to their role) to interact
 - Admin
 - Students
 - Employers
-- Admins were able to manage the system by modifying internships
+- Admin Roles: 
   * deleting reviews and review replies
   * Adding users
   * deleting users
   * activating and Deactivating users
-- Employers were able to:
+- Employers' Roles:
   * Accept or Reject internship applications
   * reply to students' reviews
   * post new internships
   * create new internships
-- students were able to
+- students' Roles
   * Apply for internships
   * browse available internships
   * sent reviews to companies they have applied to
+  * View Application Status
 
 ## Contact
-- **Email:** [kutlwanothoothe233@gmail.com]
-- **LinkedIn:** [Kutloano Thoothe]
-- **GitHub:** [https://github.com/kutloano123]
+- **Email:** kutlwanothoothe233@gmail.com
+- **LinkedIn:** Kutloano Thoothe
+- **GitHub:** https://github.com/kutloano123
 
 ---
 
