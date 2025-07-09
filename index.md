@@ -37,10 +37,19 @@ Hello! My name is [Kutloano]. I am a participant in the Africa Code Academy Engi
   - Bsc Honours in Computing
   ### Specialization
   - General
+### How it Started
+My journey into software development began in an unexpected way. At first, it was more of a joke — I was fascinated by how movies showed people building incredible tech and controlling systems with just a keyboard. That curiosity sparked something real in me. I started exploring the world of software, and what began as a light interest quickly grew into a true passion.
+
+ Since i got an opportunity to study it, I've developed a strong appreciation for how powerful software can be in solving real-life problems. I enjoy the challenge of building systems from scratch, whether it's designing interfaces, managing backend logic, or working with databases. I’ve worked on projects ranging from web applications to system automation and continue to sharpen my skills every day.
+
+For me, software isn’t just about writing code — it’s about creating solutions, thinking critically, and constantly learning. I love being part of this ever-evolving field and look forward to building more meaningful, user-centered applications.
 
 ### Goals
-my goal is to one day become a very confident software developer. i also want of open a bussiness, starting with an internet cafe
-i also want to study other courses and see what else is out there.
+One of my biggest inspirations is a successful entrepreneur named Jeff, who runs a thriving internet café and uses it as a platform to educate and uplift others interested in tech. Watching his journey sparked something in me — a desire not just to grow in the tech world, but to use my knowledge to empower others too.
+
+My main goal is to become a confident and skilled software developer, someone who can build real solutions and take on challenges with creativity and clarity. But I’m not stopping there — I also dream of starting my own business, beginning with an internet café that can serve as both a hub for access and a space for learning.
+
+I’m eager to keep exploring and growing, which is why I also plan to study other fields. I'm open to discovering what else is out there, broadening my knowledge, and seeing how different areas can connect with my love for technology.
 
 ## Projects
 ### Library Management System
